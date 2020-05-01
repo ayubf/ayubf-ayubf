@@ -1,9 +1,9 @@
 body {
-background-color: #fafba4;
-
+background-color: black;
+color: white;
 }
 hr {
-background-color: #a96851;
+background-color: white;
 border-style: none;
 height: 3px;
 }
