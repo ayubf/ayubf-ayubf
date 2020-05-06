@@ -19,6 +19,6 @@ a:visited{
   color:green;
 }
 hr {
-  border-top: 5px solid green;
+  border: solid green;
 }
 /***CLASS SELECTORS***/
