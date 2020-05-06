@@ -1,0 +1,24 @@
+/***TAG SELECTORS***/
+body {
+  background-color: black;
+  color:green;
+  font-family: "Lucida Console";
+  text-align: left;
+
+}
+a:link{
+  color:green;
+}
+a:hover {
+  color:lightgreen;
+}
+a:active {
+  color:white;
+}
+a:visited{
+  color:green;
+}
+hr {
+  border-top: 5px solid green;
+}
+/***CLASS SELECTORS***/
